@@ -1,0 +1,13 @@
+D:\projects\Vetvlenie\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.exe
+D:\projects\Vetvlenie\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.deps.json
+D:\projects\Vetvlenie\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.json
+D:\projects\Vetvlenie\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.dev.json
+D:\projects\Vetvlenie\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.dll
+D:\projects\Vetvlenie\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.pdb
+D:\projects\Vetvlenie\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csprojAssemblyReference.cache
+D:\projects\Vetvlenie\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfoInputs.cache
+D:\projects\Vetvlenie\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfo.cs
+D:\projects\Vetvlenie\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\projects\Vetvlenie\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.dll
+D:\projects\Vetvlenie\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.pdb
+D:\projects\Vetvlenie\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.genruntimeconfig.cache
